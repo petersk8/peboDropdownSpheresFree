@@ -1,0 +1,11 @@
+Actual status:
+*The plugin changes effects when selecting from the effects droprown. The free version is almost ready.
+ 
+TODO list:
+*remove the custom pictures and background color from droprowns for the free version after
+    the free version folder has been created.
+*get the subcategories for filling the dropdown.
+
+PRO version features:
+*make te plugin use custom pictures.
+*make the plugin use custom color for the background instead of pictures.
